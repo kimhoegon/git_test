@@ -3,3 +3,10 @@
 
 
 function a()
+
+
+
+function c() {
+
+}
+
